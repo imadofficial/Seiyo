@@ -1,0 +1,22 @@
+{
+    "Last Updated": "20 Februari 2023",
+    "Charts": [
+     {
+        "Chart": "Jump",
+        "Artist": "幾田りら",
+        "ArtistRomanized": "Lilas Ikuta",
+        "BPM": 80,
+        "Lyrics": "JumpByLilas.json",
+        "Copyright": "Sony Music Entertainment Japan",
+        "Cover": "JumpByLilas.jpg",
+
+        "Status": "Uncharted",
+        "CharterNickname": "iMadTheCrazyTwitterUser",
+        "CharterID": 1,
+        "ChartRelease": "17 Maart 2023 | 01:00",
+
+        "Featuredin": ["Bandcamp", "THE FIRST TAKE"],
+        "Category": 1
+     }   
+    ]
+}
